@@ -37,6 +37,10 @@ The simulations are structured into multiple Jupyter Notebooks, each correspondi
 ### 6. **Notebook 6** - Runtime Analysis
 - Provides an analysis of the running time of different benchmarks, specifically on **Scenario 2**.
 
+### 7. **Notebook 7** - Noisy CSI
+- Review the robustness of the Unfolded algorithm compared to other benchmarks.
+
+
 ## External Data Requirements
 For some simulations, you will need the QuDRiGA-generated channel data. The dataset is provided as `H_1100_32_12_5.mat`. Ensure that the file is placed in the appropriate directory before running the simulations.
 
